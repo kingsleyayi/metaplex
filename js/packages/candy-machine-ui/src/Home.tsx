@@ -430,7 +430,7 @@ const Home = (props: HomeProps) => {
             display="block"
             style={{ marginTop: 7, color: 'grey' }}
           >
-            Powered by METAPLEX
+            Kingsley's NFT MINT
           </Typography>
         </Paper>
       </Container>
